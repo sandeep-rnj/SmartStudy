@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 - Author: Sandeep Ranjan
-- LinkedIn: Sandeep Ranjan
+- LinkedIn: Sandeep-rnj
 - Email: Sandeeprnj2303@gmail.com
 
 ### Feel free to open an issue or reach out if you have any questions or suggestions.
